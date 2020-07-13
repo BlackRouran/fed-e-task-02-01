@@ -1,0 +1,15 @@
+{
+  "name": "pgg-gulp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "pgg-pages build",
+    "clean": "pgg-pages clean",
+    "develop": "pgg-pages develop"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "pgg-pages": "^0.2.1"
+  }
+}

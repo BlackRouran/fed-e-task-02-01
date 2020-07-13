@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/app.js"],"names":["a","c","console","log","name"],"mappings":";;AAAA,IAAIA,CAAC,GAAG,CAAR;;AACA,IAAMC,CAAC,GAAG,SAAJA,CAAI,GAAI;AACVC,EAAAA,OAAO,CAACC,GAAR,CAAYF,CAAZ;AACH,CAFD;;AAGA,IAAMG,IAAI,GAAG,KAAb","sourcesContent":["let a = 1;\r\nconst c = ()=>{\r\n    console.log(c)\r\n}\r\nconst name = \"pgg\""],"file":"app.js"}
